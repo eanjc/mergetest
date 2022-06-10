@@ -17,8 +17,5 @@ class File2Demo1:
     def function_2_DEV1_ADD1(self):
         print("FILE2 DEV1_ADD1")
 
-    def function2_TEST1(self):
-        print("function 2_TEST1")
-
 
 
