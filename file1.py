@@ -17,3 +17,6 @@ class File1Demo1:
     def function1_C(self, input1):
         print("function 1_C" + input1)
 
+    def dev1_1(self):
+        print("dev1_1")
+
