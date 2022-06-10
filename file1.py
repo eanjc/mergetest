@@ -20,3 +20,6 @@ class File1Demo1:
     def dev1_1(self):
         print("dev1_1")
 
+    def dev2_1(self):
+        print("dev2_1")
+
